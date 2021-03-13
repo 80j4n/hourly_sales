@@ -1,0 +1,8 @@
+Task is to forecast hourly sales for next 7 days in order to have fresh, tasty products on shelf but to minimise waste due to expiration date which is 1 day. 
+Customers pick most fresh product so at the end of the day waste is accumulated.
+
+Data set contains 3 months sales, per hour.
+Hourly sales are from 7h to 22h (working hours)
+There are lots of 0 sales.
+Q: How should data be prepared for forecast considering zero values?
+Q: What is the best method? I am thinking of using Prophet...
